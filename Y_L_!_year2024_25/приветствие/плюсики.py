@@ -1,0 +1,5 @@
+znak = input()
+d = input()
+f = input()
+g = input()
+print(d, f, g, sep='znak')
